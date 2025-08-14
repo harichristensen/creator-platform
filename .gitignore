@@ -1,4 +1,6 @@
+.kilocode/
 
+.github/
 
 #Ignore vscode AI rules
 .github/copilot-instructions.md
